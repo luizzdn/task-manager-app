@@ -1,6 +1,6 @@
 # 📝 Task Manager App
 
-Aplicação de gerenciamento de tarefas desenvolvida com React.
+Aplicação web para gerenciamento de tarefas, com foco em produtividade e organização do dia a dia.
 
 ## 🚀 Funcionalidades
 
