@@ -27,6 +27,6 @@ npm run dev
 
 ## 🌐 Deploy
 ```md
-👉 https://task-manager-app-ten-brown.vercel.app/
+ https://task-manager-app-ten-brown.vercel.app/
 ```
 
