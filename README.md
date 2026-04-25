@@ -29,4 +29,4 @@ npm run dev
 ```md
  https://task-manager-app-ten-brown.vercel.app/
 ```
-
+![Preview](./preview-task-manager.png)
