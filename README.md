@@ -24,9 +24,9 @@ npm install
 npm run dev
 ```
 
-```md
-## 🌐 Deploy
 
+## 🌐 Deploy
+```md
 👉 https://task-manager-app-ten-brown.vercel.app/
 ```
 
